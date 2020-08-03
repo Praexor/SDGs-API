@@ -1,6 +1,8 @@
 
+<img src="https://github.com/Praexor/SDGs-API/blob/master/Banner-graphic1.png"> <br>
 
-# SDGs-API
+# SDGs-API <br>
+
 API to explore SDG data reported by the UNSD agencies. </br>
 
 <a href="https://unstats.un.org/SDGAPI/swagger/">API Swagger</a>
